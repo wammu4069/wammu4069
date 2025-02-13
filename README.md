@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @wammu4069
 - 👀 I’m interested in backend and A.I.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
